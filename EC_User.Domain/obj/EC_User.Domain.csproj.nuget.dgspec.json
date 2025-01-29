@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\A520839\\OneDrive - Volvo Group\\YassesDocuments\\Trainings\\Ecommerce.UserControl\\EC_User.Domain\\EC_User.Domain.csproj": {}
+    "C:\\Users\\A520839\\Documents\\Ecommerce.UserControl\\EC_User.Domain\\EC_User.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\A520839\\OneDrive - Volvo Group\\YassesDocuments\\Trainings\\Ecommerce.UserControl\\EC_User.Domain\\EC_User.Domain.csproj": {
+    "C:\\Users\\A520839\\Documents\\Ecommerce.UserControl\\EC_User.Domain\\EC_User.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A520839\\OneDrive - Volvo Group\\YassesDocuments\\Trainings\\Ecommerce.UserControl\\EC_User.Domain\\EC_User.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\A520839\\Documents\\Ecommerce.UserControl\\EC_User.Domain\\EC_User.Domain.csproj",
         "projectName": "EC_User.Domain",
-        "projectPath": "C:\\Users\\A520839\\OneDrive - Volvo Group\\YassesDocuments\\Trainings\\Ecommerce.UserControl\\EC_User.Domain\\EC_User.Domain.csproj",
+        "projectPath": "C:\\Users\\A520839\\Documents\\Ecommerce.UserControl\\EC_User.Domain\\EC_User.Domain.csproj",
         "packagesPath": "C:\\Users\\A520839\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A520839\\OneDrive - Volvo Group\\YassesDocuments\\Trainings\\Ecommerce.UserControl\\EC_User.Domain\\obj\\",
+        "outputPath": "C:\\Users\\A520839\\Documents\\Ecommerce.UserControl\\EC_User.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

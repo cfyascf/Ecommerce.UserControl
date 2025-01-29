@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "86BakFGB0Y4=",
+  "dgSpecHash": "wDHYa0gQ6/k=",
   "success": true,
-  "projectFilePath": "C:\\Users\\A520839\\OneDrive - Volvo Group\\YassesDocuments\\Trainings\\Ecommerce.UserControl\\EC_User.AppFunction\\EC_User.AppFunction.csproj",
+  "projectFilePath": "C:\\Users\\A520839\\Documents\\Ecommerce.UserControl\\EC_User.AppFunction\\EC_User.AppFunction.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\A520839\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\A520839\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

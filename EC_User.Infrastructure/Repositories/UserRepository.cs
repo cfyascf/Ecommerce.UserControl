@@ -14,32 +14,18 @@ namespace EC_User.Infrastructure.Repositories
         }
         public async Task<User> CreateUser(User user)
         {
-            var register = _context.Users.FirstOrDefault(u => u.Email == user.Email);
+            await _context.Users.AddAsync(user);
+            await _context.SaveChangesAsync();
 
-            if(register == null) 
-            {
-                await _context.Users.AddAsync(user);
-                await _context.SaveChangesAsync();
-
-                return user;
-            }
-
-            return null!;
+            return user;
         }
 
-        public async Task<User> DeleteUser(long id)
+        public async Task<User> DeleteUser(User user)
         {
-            var register = await _context.Users.FindAsync(id);
+            _context.Users.Remove(user);
+            await _context.SaveChangesAsync();
 
-            if(register != null) 
-            {
-                _context.Users.Remove(register);
-                await _context.SaveChangesAsync();
-
-                return register;
-            }
-
-            return null!;
+            return user;
         }
 
         public IQueryable<User> GetUsers()

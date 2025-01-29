@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8mHpGo1wXrg=",
+  "dgSpecHash": "EC0dayKztLA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\A520839\\OneDrive - Volvo Group\\YassesDocuments\\Trainings\\Ecommerce.UserControl\\EC_User.Infrastructure\\EC_User.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\A520839\\Documents\\Ecommerce.UserControl\\EC_User.Infrastructure\\EC_User.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\A520839\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\A520839\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

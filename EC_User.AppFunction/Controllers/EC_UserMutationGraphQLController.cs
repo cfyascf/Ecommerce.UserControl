@@ -12,17 +12,17 @@ namespace EC_User.AppFunction.Controllers
         {
             _userService = userService;
         }
-        public async Task<User> CreateUser(UserRegisterPayload payload)
+        public async Task<User?> CreateUser(UserRegisterPayload payload)
         {
             return await _userService.CreateUser(payload);
         }
 
-        public async Task<User> UpdateUser(User payload)
+        public async Task<User?> UpdateUser(User payload)
         {
             return await _userService.UpdateUser(payload);
         }
 
-        public async Task<User> DeleteUser(long id)
+        public async Task<User?> DeleteUser(long id)
         {
             return await _userService.DeleteUser(id);
         }

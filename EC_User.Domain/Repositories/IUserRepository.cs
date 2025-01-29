@@ -6,7 +6,7 @@ namespace EC_User.Domain.Repositories
     {
         public Task<User> CreateUser(User user);
         public Task<User> UpdateUser(User user);
-        public Task<User> DeleteUser(long id);
+        public Task<User> DeleteUser(User user);
         public IQueryable<User> GetUsers();
     }
 }

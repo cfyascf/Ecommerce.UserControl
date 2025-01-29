@@ -16,3 +16,21 @@ C:\Users\A520839\OneDrive - Volvo Group\YassesDocuments\Trainings\Ecommerce.User
 C:\Users\A520839\OneDrive - Volvo Group\YassesDocuments\Trainings\Ecommerce.UserControl\EC_User.Infrastructure\obj\Debug\net9.0\EC_User.Infrastructure.pdb
 C:\Users\A520839\OneDrive - Volvo Group\YassesDocuments\Trainings\Ecommerce.UserControl\EC_User.Infrastructure\obj\Debug\net9.0\EC_User.Infrastructure.genruntimeconfig.cache
 C:\Users\A520839\OneDrive - Volvo Group\YassesDocuments\Trainings\Ecommerce.UserControl\EC_User.Infrastructure\obj\Debug\net9.0\ref\EC_User.Infrastructure.dll
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.Infrastructure\bin\Debug\net9.0\EC_User.Infrastructure.deps.json
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.Infrastructure\bin\Debug\net9.0\EC_User.Infrastructure.runtimeconfig.json
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.Infrastructure\bin\Debug\net9.0\EC_User.Infrastructure.dll
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.Infrastructure\bin\Debug\net9.0\EC_User.Infrastructure.pdb
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.Infrastructure\bin\Debug\net9.0\EC_User.Domain.dll
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.Infrastructure\bin\Debug\net9.0\EC_User.Domain.pdb
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.Infrastructure\obj\Debug\net9.0\EC_User.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.Infrastructure\obj\Debug\net9.0\EC_User.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.Infrastructure\obj\Debug\net9.0\EC_User.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.Infrastructure\obj\Debug\net9.0\EC_User.Infrastructure.AssemblyInfo.cs
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.Infrastructure\obj\Debug\net9.0\EC_User.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.Infrastructure\obj\Debug\net9.0\EC_User.Infrastructure.sourcelink.json
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.Infrastructure\obj\Debug\net9.0\EC_User..2F5B4E42.Up2Date
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.Infrastructure\obj\Debug\net9.0\EC_User.Infrastructure.dll
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.Infrastructure\obj\Debug\net9.0\refint\EC_User.Infrastructure.dll
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.Infrastructure\obj\Debug\net9.0\EC_User.Infrastructure.pdb
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.Infrastructure\obj\Debug\net9.0\EC_User.Infrastructure.genruntimeconfig.cache
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.Infrastructure\obj\Debug\net9.0\ref\EC_User.Infrastructure.dll
