@@ -1,7 +1,7 @@
-using EC_User.AppFunction.Services;
+using EC_User.FunctionApp.Services;
 using EC_User.Domain.Entities;
 
-namespace EC_User.AppFunction.Controllers
+namespace EC_User.FunctionApp.Controllers
 {
     public class EC_UserGraphQLController
     {

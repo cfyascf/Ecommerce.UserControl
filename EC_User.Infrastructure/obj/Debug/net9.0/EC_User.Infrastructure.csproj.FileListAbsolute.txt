@@ -16,6 +16,10 @@ C:\Users\A520839\OneDrive - Volvo Group\YassesDocuments\Trainings\Ecommerce.User
 C:\Users\A520839\OneDrive - Volvo Group\YassesDocuments\Trainings\Ecommerce.UserControl\EC_User.Infrastructure\obj\Debug\net9.0\EC_User.Infrastructure.pdb
 C:\Users\A520839\OneDrive - Volvo Group\YassesDocuments\Trainings\Ecommerce.UserControl\EC_User.Infrastructure\obj\Debug\net9.0\EC_User.Infrastructure.genruntimeconfig.cache
 C:\Users\A520839\OneDrive - Volvo Group\YassesDocuments\Trainings\Ecommerce.UserControl\EC_User.Infrastructure\obj\Debug\net9.0\ref\EC_User.Infrastructure.dll
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.FunctionApp\bin\output\EC_User.Infrastructure.deps.json
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.FunctionApp\bin\output\EC_User.Infrastructure.runtimeconfig.json
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.FunctionApp\bin\output\EC_User.Infrastructure.dll
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.FunctionApp\bin\output\EC_User.Infrastructure.pdb
 C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.Infrastructure\bin\Debug\net9.0\EC_User.Infrastructure.deps.json
 C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.Infrastructure\bin\Debug\net9.0\EC_User.Infrastructure.runtimeconfig.json
 C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.Infrastructure\bin\Debug\net9.0\EC_User.Infrastructure.dll
@@ -34,7 +38,3 @@ C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.Infrastructure\obj\Debu
 C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.Infrastructure\obj\Debug\net9.0\EC_User.Infrastructure.pdb
 C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.Infrastructure\obj\Debug\net9.0\EC_User.Infrastructure.genruntimeconfig.cache
 C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.Infrastructure\obj\Debug\net9.0\ref\EC_User.Infrastructure.dll
-C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.FunctionApp\bin\output\EC_User.Infrastructure.deps.json
-C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.FunctionApp\bin\output\EC_User.Infrastructure.runtimeconfig.json
-C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.FunctionApp\bin\output\EC_User.Infrastructure.dll
-C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.FunctionApp\bin\output\EC_User.Infrastructure.pdb

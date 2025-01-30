@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EC_User.Infrastructure", "E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EC_User.FunctionApp", "EC_User.FunctionApp\EC_User.FunctionApp.csproj", "{5080122E-520F-4943-902B-70D04672534A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EC_User.ApiClient", "EC_User.ApiClient\EC_User.ApiClient.csproj", "{0E75FE6A-E6B5-4EE4-B6FD-38530A09245D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{5080122E-520F-4943-902B-70D04672534A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5080122E-520F-4943-902B-70D04672534A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5080122E-520F-4943-902B-70D04672534A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E75FE6A-E6B5-4EE4-B6FD-38530A09245D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E75FE6A-E6B5-4EE4-B6FD-38530A09245D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E75FE6A-E6B5-4EE4-B6FD-38530A09245D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E75FE6A-E6B5-4EE4-B6FD-38530A09245D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,4 +1,4 @@
-namespace EC_User.AppFunction.Models
+namespace EC_User.FunctionApp.Models
 {
     public class UserRegisterPayload
     {

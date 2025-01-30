@@ -1,8 +1,8 @@
 using AutoMapper;
-using EC_User.AppFunction.Models;
+using EC_User.FunctionApp.Models;
 using EC_User.Domain.Entities;
 
-namespace EC_User.AppFunction.Mappings
+namespace EC_User.FunctionApp.Mappings
 {
     public class UserProfile : Profile
     {

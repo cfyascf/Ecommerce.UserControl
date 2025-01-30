@@ -1,0 +1,13 @@
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.ApiClient\obj\Debug\net9.0\EC_User.ApiClient.csproj.AssemblyReference.cache
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.ApiClient\obj\Debug\net9.0\EC_User.ApiClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.ApiClient\obj\Debug\net9.0\EC_User.ApiClient.AssemblyInfoInputs.cache
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.ApiClient\obj\Debug\net9.0\EC_User.ApiClient.AssemblyInfo.cs
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.ApiClient\obj\Debug\net9.0\EC_User.ApiClient.csproj.CoreCompileInputs.cache
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.ApiClient\obj\Debug\net9.0\EC_User.ApiClient.sourcelink.json
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.ApiClient\bin\Debug\net9.0\EC_User.ApiClient.deps.json
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.ApiClient\bin\Debug\net9.0\EC_User.ApiClient.dll
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.ApiClient\bin\Debug\net9.0\EC_User.ApiClient.pdb
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.ApiClient\obj\Debug\net9.0\EC_User.ApiClient.dll
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.ApiClient\obj\Debug\net9.0\refint\EC_User.ApiClient.dll
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.ApiClient\obj\Debug\net9.0\EC_User.ApiClient.pdb
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.ApiClient\obj\Debug\net9.0\ref\EC_User.ApiClient.dll

@@ -1,10 +1,10 @@
 using AutoMapper;
-using EC_User.AppFunction.Models;
+using EC_User.FunctionApp.Models;
 using EC_User.Domain.Entities;
 using EC_User.Domain.Repositories;
 using Microsoft.EntityFrameworkCore;
 
-namespace EC_User.AppFunction.Services
+namespace EC_User.FunctionApp.Services
 {
     public class UserService
     {

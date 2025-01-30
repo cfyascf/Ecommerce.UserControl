@@ -11,5 +11,6 @@ namespace EC_User.Infrastructure.Contexts
         }
 
         public DbSet<User> Users { get; set; }
+        public DbSet<Character> Characters { get; set; }
     }
 }

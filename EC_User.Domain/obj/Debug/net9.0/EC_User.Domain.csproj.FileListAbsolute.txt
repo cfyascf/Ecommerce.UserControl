@@ -10,6 +10,9 @@ C:\Users\A520839\OneDrive - Volvo Group\YassesDocuments\Trainings\Ecommerce.User
 C:\Users\A520839\OneDrive - Volvo Group\YassesDocuments\Trainings\Ecommerce.UserControl\EC_User.Domain\obj\Debug\net9.0\refint\EC_User.Domain.dll
 C:\Users\A520839\OneDrive - Volvo Group\YassesDocuments\Trainings\Ecommerce.UserControl\EC_User.Domain\obj\Debug\net9.0\EC_User.Domain.pdb
 C:\Users\A520839\OneDrive - Volvo Group\YassesDocuments\Trainings\Ecommerce.UserControl\EC_User.Domain\obj\Debug\net9.0\ref\EC_User.Domain.dll
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.FunctionApp\bin\output\EC_User.Domain.deps.json
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.FunctionApp\bin\output\EC_User.Domain.dll
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.FunctionApp\bin\output\EC_User.Domain.pdb
 C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.Domain\bin\Debug\net9.0\EC_User.Domain.deps.json
 C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.Domain\bin\Debug\net9.0\EC_User.Domain.dll
 C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.Domain\bin\Debug\net9.0\EC_User.Domain.pdb
@@ -22,6 +25,3 @@ C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.Domain\obj\Debug\net9.0
 C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.Domain\obj\Debug\net9.0\refint\EC_User.Domain.dll
 C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.Domain\obj\Debug\net9.0\EC_User.Domain.pdb
 C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.Domain\obj\Debug\net9.0\ref\EC_User.Domain.dll
-C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.FunctionApp\bin\output\EC_User.Domain.deps.json
-C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.FunctionApp\bin\output\EC_User.Domain.dll
-C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.FunctionApp\bin\output\EC_User.Domain.pdb
