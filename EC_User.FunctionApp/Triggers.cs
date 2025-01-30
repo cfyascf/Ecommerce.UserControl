@@ -1,3 +1,5 @@
+using EC_User.FunctionApp.Controllers;
+using EC_User.FunctionApp.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Azure.Functions.Worker;
@@ -22,8 +24,17 @@ namespace EC_User.FunctionApp
             AuthorizationLevel.Anonymous, "get", "post")] 
             HttpRequest request)
         {
-            _logger.LogInformation("C# HTTP trigger function processed a request.");
+            _logger.LogInformation(nameof(EC_UserGraphQLController));
             return await _executor.ExecuteAsync(request);
+        }
+
+        [Function("SaveCharacterOnDb")]
+        public async Task SaveCharacterOnDb(
+            [TimerTrigger("0 */5 * * * *")] TimerInfo timer,
+            [Service] CharacterService service)
+        {
+            _logger.LogInformation("Character saved on DB.");
+            await service.SaveApiCharacter();
         }
     }
 }
