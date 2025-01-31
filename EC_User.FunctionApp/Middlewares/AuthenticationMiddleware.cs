@@ -21,38 +21,6 @@ public class AuthenticationMiddleware : IFunctionsWorkerMiddleware
         ];
     }
 
-    // public async Task InvokeAsync(HttpContext context, RequestDelegate next)
-    // {   
-    //     bool mustSkip = _pathsToSkip.Contains(
-    //                 context.Request.Path.Value,
-    //                 StringComparer.OrdinalIgnoreCase);
-
-    //     if (mustSkip)
-    //     {
-    //         await next.Invoke(context);
-    //         return;
-    //     }
-
-    //     var auth = context.Request.Headers.Authorization.FirstOrDefault();
-    //     if(!TryGetBearerToken(auth!, out var token))
-    //     {
-    //         await RespondWithErrorAsync(context, 400, "Invalid authorization headers!");
-    //         return;
-    //     }
-
-    //     try 
-    //     {
-    //         _jwtService.ValidateToken(token!);   
-    //     }
-    //     catch(Exception)
-    //     {
-    //         await RespondWithErrorAsync(context, 401, "Invalid JWT token!");
-    //         return;
-    //     }
-
-    //     await next.Invoke(context);
-    // }
-
     private bool TryGetBearerToken(string auth, out string? token)
     {
         if (auth is not null)
