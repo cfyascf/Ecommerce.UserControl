@@ -1,0 +1,10 @@
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.ApiClient\bin\Release\net9.0\publish\EC_User.ApiClient.dll
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.ApiClient\bin\Release\net9.0\publish\EC_User.ApiClient.deps.json
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.ApiClient\bin\Release\net9.0\publish\EC_User.ApiClient.pdb
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.ApiClient\bin\Release\net9.0\publish\GraphQL.Client.dll
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.ApiClient\bin\Release\net9.0\publish\GraphQL.Client.Abstractions.dll
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.ApiClient\bin\Release\net9.0\publish\GraphQL.Client.Abstractions.Websocket.dll
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.ApiClient\bin\Release\net9.0\publish\GraphQL.Client.Serializer.Newtonsoft.dll
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.ApiClient\bin\Release\net9.0\publish\GraphQL.Primitives.dll
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.ApiClient\bin\Release\net9.0\publish\Newtonsoft.Json.dll
+C:\Users\A520839\Documents\Ecommerce.UserControl\EC_User.ApiClient\bin\Release\net9.0\publish\System.Reactive.dll

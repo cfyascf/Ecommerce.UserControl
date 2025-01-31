@@ -9,6 +9,9 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using GraphQL.Client.Http;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using EC_User.FunctionApp.Middlewares;
+using System.IdentityModel.Tokens.Jwt;
 
 var builder = FunctionsApplication.CreateBuilder(args);
 
@@ -38,5 +41,21 @@ builder.Services.AddScoped<ICharacterRepository, CharacterRepository>();
 builder.Services.AddScoped<CharacterService>();
 
 builder.Services.AddScoped<GraphQLHttpClient>();
+
+var jwtSettings = new JwtSettings()
+{
+    SecretKey = builder.Configuration.GetSection("JwtSettings")
+            .GetValue<string>("SecretKey")!
+};
+builder.Services.AddSingleton(jwtSettings);
+builder.Services.AddSingleton<JwtSecurityTokenHandler>();
+builder.Services.AddScoped<JwtService>();
+builder.Services.AddScoped<AuthenticationMiddleware>();
+builder.Services.AddTransient<AuthenticationMiddleware>();
+builder.Services.AddScoped<UserContext>();
+
+builder.Services.AddAuthorization();
+
+builder.UseMiddleware<AuthenticationMiddleware>();
 
 builder.Build().Run();

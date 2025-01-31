@@ -28,13 +28,13 @@ namespace EC_User.FunctionApp
             return await _executor.ExecuteAsync(request);
         }
 
-        [Function("SaveCharacterOnDb")]
-        public async Task SaveCharacterOnDb(
-            [TimerTrigger("0 */5 * * * *")] TimerInfo timer,
-            [Service] CharacterService service)
-        {
-            _logger.LogInformation("Character saved on DB.");
-            await service.SaveApiCharacter();
-        }
+        // [Function("SaveCharacterOnDb")]
+        // public async Task SaveCharacterOnDb(
+        //     [TimerTrigger("0 */5 * * * *")] TimerInfo timer,
+        //     [Service] CharacterService service)
+        // {
+        //     _logger.LogInformation("Character saved on DB.");
+        //     await service.SaveApiCharacter();
+        // }
     }
 }
